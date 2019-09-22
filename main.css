@@ -1,0 +1,13 @@
+#welcome-section {
+  background: #666;
+  color: #fff;
+}
+
+#contact {
+  background: #666;
+}
+
+#contact a {
+  color: #fff;
+  text-decoration: none;
+}
